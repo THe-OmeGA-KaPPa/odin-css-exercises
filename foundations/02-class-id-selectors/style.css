@@ -1,0 +1,18 @@
+.odd{
+    background-color: #ff7289;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#unique{
+    color:hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.extra, .four{
+    font-size: 24px;
+}
+
+.four{
+    background-color: #90ee90;
+    font-weight: bold;
+}
